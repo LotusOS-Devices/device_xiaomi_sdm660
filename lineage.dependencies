@@ -1,6 +1,6 @@
 [
   {
-    "repository": "kernel_xiaomi_sdm660",
+    "repository": "android_kernel_xiaomi_sdm660",
     "target_path": "kernel/xiaomi/sdm660"
   },
   {
@@ -9,11 +9,11 @@
     "branch": "lineage-17.1"
   },
   {
-    "repository": "proprietary_vendor_xiaomi",
-    "target_path": "vendor/xiaomi"
+    "repository": "android_vendor_xiaomi_whyred",
+    "target_path": "vendor/xiaomi/whyred"
   },
   {
-    "repository": "vendor_dirac",
+    "repository": "android_vendor_dirac",
     "target_path": "vendor/dirac"
   }
 ]
