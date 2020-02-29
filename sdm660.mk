@@ -47,7 +47,7 @@ TARGET_SCREEN_WIDTH := 1080
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(COMMON_PATH)/overlay \
-    $(COMMON_PATH)/overlay-lineage
+    $(COMMON_PATH)/overlay-lotus
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += device/xiaomi/sdm660-common
